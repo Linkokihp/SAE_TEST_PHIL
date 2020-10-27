@@ -1,0 +1,17 @@
+{
+  "name": "beispiel_terminal",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Koch",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-dev-jokes": "^1.0.3",
+    "bootstrap": "^4.5.3",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  }
+}
